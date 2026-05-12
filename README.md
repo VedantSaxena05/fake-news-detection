@@ -17,7 +17,4 @@ A machine learning project that detects fake news articles using NLP techniques,
 ## Accuracy
 ~98% accuracy achieved.
 
-## Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
+
